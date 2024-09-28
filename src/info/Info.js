@@ -1,7 +1,6 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
+
 
 
 
@@ -78,22 +77,12 @@ export const info = {
     portfolio: [ 
         {
             title: "Project 1",
-            live: "https://vk-media.vercel.app/", 
-            source: "https://github.com/vasanth27s/vk-media.git", 
+            live: "https://photoweb-rouge.vercel.app/", 
+            source: "https://github.com/MajmaAnjum123/photoweb.git", 
             image: mock1
         },
-        {
-            title: "Project 2",
-            live: "https://vk-chat-beta.vercel.app/",
-            source: "https://github.com/vasanth27s/vk-chat.git",
-            image: mock2
-        },
-        {
-            title: "Project 3",
-            live: "https://vk-weatherapp.vercel.app/",
-            source: "https://github.com/vasanth27s/vk-weatherapp.git",
-            image: mock3
-        }
+       
+       
        
     ]
 }
