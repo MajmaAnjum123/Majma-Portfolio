@@ -1,6 +1,6 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
-
+import mock2 from "../img/mock2.png"
 
 
 
@@ -80,6 +80,12 @@ export const info = {
             live: "https://photoweb-rouge.vercel.app/", 
             source: "https://github.com/MajmaAnjum123/photoweb.git", 
             image: mock1
+        },
+        {
+            title: "Project 2",
+            live: "https://netflix-clone-pi-virid-35.vercel.app/", 
+            source: "https://github.com/MajmaAnjum123/netflix-clone.git", 
+            image: mock2
         },
        
        
